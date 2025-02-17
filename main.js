@@ -15,7 +15,6 @@ function fetchJoke() {
       console.error("Error fetching joke:", error);
       btn.disabled = false;
     });
-  //
 }
 
 fetchJoke();
