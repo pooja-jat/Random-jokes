@@ -16,6 +16,7 @@ function fetchJoke() {
       btn.disabled = false;
     });
   //
+  //
 }
 
 fetchJoke();
